@@ -16,4 +16,4 @@ This class takes few defaults if not specified by the user and therefore should 
 
 ### Default behavior
 - Verbose mode is disabled.
-- All words in the dictionary database is not shown.
+- All words in the dictionary database are not shown.
