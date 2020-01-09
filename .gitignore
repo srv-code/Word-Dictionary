@@ -8,7 +8,3 @@ data/
 build.xml 
 *.iml
 manifest.mf
-
-# Test / help files
-src/util/text/parser/src/Test-Parser.java
-/build/

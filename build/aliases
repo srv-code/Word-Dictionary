@@ -1,0 +1,2 @@
+b='javac -d out src/util/text/dict/WordDictionary.java src/tester/StandardExitCodes.java src/tester/Tester1.java'
+r='java -cp out tester.Tester1'
